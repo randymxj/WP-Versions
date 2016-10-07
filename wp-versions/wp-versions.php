@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP-Versions
 Plugin URI: http://randymxj.com/wp-versions
-Description: This is simple plugin to provide a post tag to display the wordpress version information
+Description: Provide shortcodes to display version numbers of Wordpress, Php, host server and more in your post.
 Version: 0.1
 Author: Xiaojing Ma
 Author URI: http://randymxj.com
